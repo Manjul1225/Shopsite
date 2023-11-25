@@ -59,11 +59,11 @@ Run this to build this project and host
 
 ## Screenshots
 
-![Home Page](https://raw.githubusercontent.com/itfeelsharsh/shop/main/screenshots/Screenshot%202021-12-30%20143419.png)
+![Home Page](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/interface.jpg)
 ###
-![Login Page](https://raw.githubusercontent.com/itfeelsharsh/shop/main/screenshots/Screenshot%202021-12-30%20143445.png)
+![Login Page](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/Screenshot%202021-12-30%20143445.png)
 ###
-![Product ShowCase](https://raw.githubusercontent.com/itfeelsharsh/shop/main/screenshots/Screenshot%202021-12-30%20143509.png)
+![Product ShowCase](https://github.com/Manjul1225/Shopsite/blob/master/screenshots/Screenshot%202021-12-30%20143509.png)
 
 
 ## Support
